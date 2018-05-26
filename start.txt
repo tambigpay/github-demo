@@ -9,10 +9,3 @@ difftool
 
 
 want to revert to here
-
-
-
-continue
-
-
-continue
