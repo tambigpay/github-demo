@@ -2,7 +2,3 @@ Test Git Quick Start Demo
 
 
 change on dev, test
-change on task, trouble!
-
-
-difftool
